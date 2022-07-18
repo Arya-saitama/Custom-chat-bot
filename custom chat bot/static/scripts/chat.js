@@ -25,7 +25,7 @@ function getTime(){
 
 }
 function firstBotMessage() {
-    let firstMessage = "Hello, Thank you for contacting Veirdo! "
+    let firstMessage = "Hello, Thank you for contacting Ecomerce Website "
 
 /* Please Reply with Following: 
     To Know:
