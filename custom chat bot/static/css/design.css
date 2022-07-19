@@ -74,7 +74,7 @@
 }
 
 .chat-bar-icons {
-    display: flex;
+    display:flex;
     justify-content: space-evenly;
     box-sizing: border-box;
     width: 25%;
