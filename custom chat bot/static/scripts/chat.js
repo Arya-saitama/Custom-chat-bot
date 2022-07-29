@@ -27,7 +27,7 @@ function getTime(){
 function firstBotMessage() {
     let firstMessage = "Hello, Thank you for contacting Ecomerce Website "
 
-/* Please Reply with Following: 
+"Please Reply with Following: "
     To Know:
     ▶ How to Track Your Order? Please reply with "1"
     
@@ -41,13 +41,13 @@ function firstBotMessage() {
     
     ▶ Paid the amount/Place the order but no confirmation received? please reply with "6"
     
-    ▶ Want to know about Replacement Status? Please Reply with "7"
+  "  ▶ Want to know about Replacement Status? Please Reply with "7""
     
-    ▶ Need Discount of ₹100? To Get Coupon Please Reply with "8"
+   " ▶ Need Discount of ₹100? To Get Coupon Please Reply with "8""
     Thank you!
     
-    🙏we are getting very high number of messages, we will get back to you within 24 hrs. Thanks for cooperation🙏
-    ?"*/
+   " 🙏we are getting very high number of messages, we will get back to you within 24 hrs. Thanks for cooperation🙏
+    ?"
     document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
     let time = getTime();
