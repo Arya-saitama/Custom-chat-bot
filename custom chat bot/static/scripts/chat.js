@@ -27,7 +27,7 @@ function getTime(){
 function firstBotMessage() {
     let firstMessage = "Hello, Thank you for contacting Ecomerce Website "
 
-"Please Reply with Following: "
+/*"Please Reply with Following: "
     To Know:
     ▶ How to Track Your Order? Please reply with "1"
     
@@ -47,7 +47,7 @@ function firstBotMessage() {
     Thank you!
     
    " 🙏we are getting very high number of messages, we will get back to you within 24 hrs. Thanks for cooperation🙏
-    ?"
+    ?"*/
     document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
     let time = getTime();
